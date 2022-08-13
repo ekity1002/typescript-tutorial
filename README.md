@@ -1,3 +1,7 @@
-# vue3_tutorial
+# typescript tutorial
 * 以下講座の記録
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
+frontend
+|
+|- first-proj:  https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+|- webpack: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hOkGbwzgYFmaxB0WiduYJC
+
